@@ -53,7 +53,7 @@ To develop a multi-disease prediction system that uses various health datasets a
 3. **Feature Selection**
    - `SelectKBest` and correlation-based filtering
 4. **Model Training**
-   - Trained models: Logistic Regression (others optional)
+   - Trained models: Logistic Regression,Random Forest (RF),Gradient Boosting Classifier (GBM / XGBoost / LightGBM),Support Vector Machine (SVM),K-Nearest Neighbors (KNN)
 5. **Model Evaluation**
    - Accuracy, Precision, Recall, F1-score, Confusion Matrix, ROC Curve
 6. **Model Saving**
